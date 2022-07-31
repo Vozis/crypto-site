@@ -1,1 +1,1 @@
-# crupto-site
+# crypto-site
